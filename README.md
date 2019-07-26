@@ -11,7 +11,7 @@
 ```
 # Learning/Research Repo
 
-I'm going to try to use the [wiki functionality](https://github.com/davidaayers/knowledge/wiki) in Github to organize this information.
+I'm going to try to use the [wiki functionality](https://github.com/dperconti/knowledge/wiki) in Github to organize this information.
 
 Inspired by:
 
